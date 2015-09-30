@@ -1,0 +1,17 @@
+HDR     NSET    ISTRT   NSAVC   5-ZEROS NATOM-NFREAT    DELTA   9-ZEROS
+`CORD'  #files  step 1  step    zeroes  (zero)          timestep  (zeroes)
+                        interval
+C*4     INT     INT     INT     5INT    INT             DOUBLE  9INT
+==========================================================================
+NTITLE          TITLE
+INT (=2)        C*MAXTITL
+                (=32)
+==========================================================================
+NATOM
+#atoms
+INT
+==========================================================================
+X(I), I=1,NATOM         (DOUBLE)
+Y(I), I=1,NATOM         
+Z(I), I=1,NATOM         
+==========================================================================

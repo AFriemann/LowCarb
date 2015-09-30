@@ -1,0 +1,9 @@
+
+===================== Boost =====================
+see thirdparty/boost_1_59_0/LICENSE_1_0.txt
+
+===================== Plog =====================
+see thirdparty/plog-1.0.0/LICENSE
+
+===================== xdrfile =====================
+see thirdparty/xdrfile-1.1.4/README
